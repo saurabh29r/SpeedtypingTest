@@ -9,6 +9,8 @@ let resetbtnEl = document.getElementById("resetBtn");
 let quotePara = quoteDispalyEl.textContent;
 let TextAreaElValue = TextAreaEl.value;
 
+//This function is used for fetch the data
+
 function fetchData() {
     quoteDispalyEl.classList.add("d-none");
     spinnerEl.classList.remove("d-none");
@@ -30,7 +32,8 @@ function fetchData() {
 
         })
 }
-let uniqueid = null;
+//here we have to create a counter .
+let uniqueid = null; //unique Id is declear befor the function because for clear interval we have to use all these.
 
 function timer() {
     uniqueid = setInterval(function() {
@@ -46,6 +49,7 @@ function timer() {
 
 fetchData();
 timer();
+//Both above functions called for run the functions 
 
 submitBtnEl.onclick = function() {
 
