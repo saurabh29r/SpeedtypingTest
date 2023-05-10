@@ -16,3 +16,5 @@ Now when we enter some input and that enter value is wrong , error message will 
 
 ![Second image](https://github.com/saurabh29r/SpeedtypingTest/assets/48233777/3f0a1f18-ee25-4cb2-990e-a9d790f37a65)
 
+Now when we enter the correct input , timer will be stop and the message with typing speed will be shown as per below image.
+
