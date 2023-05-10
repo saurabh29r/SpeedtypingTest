@@ -18,3 +18,5 @@ is not matching with
 
 => Now when we enter the correct input , timer will be stop and the message with typing speed will be shown as per below image.
 
+
+![Third img](https://github.com/saurabh29r/SpeedtypingTest/assets/48233777/0fd63d58-0869-4e05-8c7d-5e234b301bd2)
