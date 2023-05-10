@@ -13,3 +13,6 @@ is not matching with
 ![first image](https://github.com/saurabh29r/SpeedtypingTest/assets/48233777/1abccd34-47eb-4601-9748-1fa78948ac9f)
 
 Now when we enter some input and that enter value is wrong , error message will be shown as in below image also timer will be running 
+
+![Second image](https://github.com/saurabh29r/SpeedtypingTest/assets/48233777/3f0a1f18-ee25-4cb2-990e-a9d790f37a65)
+
