@@ -5,7 +5,7 @@ Link => https://speedtypingtsts.ccbp.tech/
 This project has been featured four things mainly,  
 (i) fetching random quote from API.
 
-(ii) Start the timer element 
+(ii) Start the timer element from zero when page refresh.
 
 (iii) if value matches then timer will be stop with message "your typing speed is n seconds" , here n is timer timimg.also if the enetr value 
 is not matching with 
