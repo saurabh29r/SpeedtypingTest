@@ -16,7 +16,7 @@ is not matching with
 
 ![Second image](https://github.com/saurabh29r/SpeedtypingTest/assets/48233777/3f0a1f18-ee25-4cb2-990e-a9d790f37a65)
 
-=> Now when we enter the correct input , timer will be stop and the message with typing speed will be shown as per below image.
+=> Now when we enter the correct input, timer will be stop and the message with typing speed will be shown as per below image.
 
 
 ![Third img](https://github.com/saurabh29r/SpeedtypingTest/assets/48233777/0fd63d58-0869-4e05-8c7d-5e234b301bd2)
