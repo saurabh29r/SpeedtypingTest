@@ -2,7 +2,7 @@
 
 Link => https://speedtypingtsts.ccbp.tech/
 
-This project has been featured four things mainly,  
+This project has been featured four things mainly 
 (i) fetching random quote from API.
 
 (ii) Start the timer element from zero when page refresh.
